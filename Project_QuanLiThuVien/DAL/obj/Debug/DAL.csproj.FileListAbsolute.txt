@@ -1,0 +1,9 @@
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\bin\Debug\DAL.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\bin\Debug\DAL.pdb
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\bin\Debug\DTO.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\bin\Debug\DTO.pdb
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\obj\Debug\DAL.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\DAL\obj\Debug\DAL.pdb

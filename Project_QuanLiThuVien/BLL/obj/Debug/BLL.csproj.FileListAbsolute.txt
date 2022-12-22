@@ -1,0 +1,11 @@
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\BLL.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\BLL.pdb
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\DAL.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\DTO.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\DAL.pdb
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\bin\Debug\DTO.pdb
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\obj\Debug\BLL.dll
+D:\University\HK 1 Year3\C#\Project_QuanLiThuVien\BLL\obj\Debug\BLL.pdb
